@@ -2,8 +2,8 @@ import subprocess
 import json
 
 def query_gpt4(prompt):
-    api_key = "aa-UN4ZmttvrbXe3cBIwbQrraPzA0EOP2MJpx0tzmnFmlk12IIx"
-    domain = "https://api.avalapis.ir/v1"
+    api_key = "api"
+    domain = "domain"
     endpoint = f"{domain}/chat/completions"
     
     headers = [
