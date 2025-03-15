@@ -7,7 +7,7 @@ import threading
 import logging
 from logging.handlers import RotatingFileHandler
 
-api_key = "aa-UN4ZmttvrbXe3cBIwbQrraPzA0EOP2MJpx0tzmnFmlk12IIx"
+api_key = "API_KEY"
 scenario = "A group of AI researchers are discussing the impact of AI on society."
 agents = [
     Agent("Alice", "An enthusiastic AI scientist.", scenario, api_key, 0.8),
