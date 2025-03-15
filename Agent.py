@@ -17,7 +17,7 @@ class Agent:
             openai_api_key=self.api_key,
             model="deepseek-chat",  # یا deepseek-chat اگر API دیگر دارید
             temperature=0.3,
-            base_url = "https://api.avalai.ir/v1"
+            base_url = "domain"
             )
 
         self.prompt_template = PromptTemplate(
