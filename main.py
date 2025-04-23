@@ -7,15 +7,14 @@ import threading
 import logging
 from logging.handlers import RotatingFileHandler
 
-api_key = "API_KEY"
-scenario = "A group of AI researchers are discussing the impact of AI on society."
+api_key = "API KEY"
+scenario = "Five friends—Ryan, Maya, Lena, Oliver, and Sam—sit around a table with steaming mugs, determined to beat overthinking"
 agents = [
-    Agent("Alice", "An enthusiastic AI scientist.", scenario, api_key, 0.8),
-    Agent("Bob", "A skeptical AI ethicist.", scenario, api_key, 0.3),
-    Agent("Charlie", "A pragmatic AI developer.", scenario, api_key, 0.5),
-    Agent("David", "A philosopher questioning AI.", scenario, api_key, 0.6),
-    Agent("Eve", "A business strategist focusing on AI trends.", scenario, api_key, 0.4),
-    Agent("Thomas", "A collage student interested in AI.", scenario, api_key, 0.2)
+    Agent("Ryan", "Dismissive Realist", scenario, api_key, 0.6),
+    Agent("Maya", "Eternal Spiral Thinker", scenario, api_key, 0.2),
+    Agent("Lena", "One‑Up Trauma Dropper", scenario, api_key, 0.35),
+    Agent("Oliver", "Fix‑It Know‑It‑All", scenario, api_key, 0.91),
+    Agent("Sam", "Passive Viber", scenario, api_key, 0.75)
 ]
 
 monitor = ConversationMonitor(agents)
@@ -40,6 +39,55 @@ graph_thread = threading.Thread(target=visual.update_graph_periodically, daemon=
 graph_thread.start()
 visual.generate_block_diagram()
 
+def load_initial_conversation(raw_text, agents):
+    lines = raw_text.strip().split("\n")
+    memory_entries = []
+    current_speaker = None
+    current_content = []
+
+    # همه اسم‌های ایجنت‌ها رو جمع کن
+    agent_names = [agent.name for agent in agents]
+
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+
+        # چک کن اگه خط با اسم یکی از ایجنت‌ها شروع می‌شه
+        matched_name = next((name for name in agent_names if line.startswith(name)), None)
+
+        if matched_name:
+            # اگر داشتیم دیالوگی رو جمع می‌کردیم، ثبتش کن
+            if current_speaker and current_content:
+                memory_entries.append({
+                    "speaker": current_speaker,
+                    "role": "user",
+                    "content": " ".join(current_content).strip()
+                })
+            current_speaker = matched_name
+            current_content = []
+        else:
+            current_content.append(line)
+
+    # آخرین دیالوگ رو هم ثبت کن
+    if current_speaker and current_content:
+        memory_entries.append({
+            "speaker": current_speaker,
+            "role": "user",
+            "content": " ".join(current_content).strip()
+        })
+
+    # محتوای اولیه رو به حافظه ایجنت‌ها اضافه کن
+    for agent in agents:
+        agent.memory.extend(memory_entries)
+
+
+with open("conversation.txt", "r", encoding="utf-8") as f:
+    raw_text = f.read()
+
+load_initial_conversation(raw_text, agents)
+
+
 start_time = time.time()  # Track when the conversation starts
 rumor_introduced = False  # Ensure rumor only appears once
 
@@ -62,12 +110,24 @@ while time.time() - start_time < 300:
         
         # Apply social rules and update memory
         response1_content = agent.apply_social_rules(mood, response["content"], monitor.relationship_strength)
-        agent.memory.append(response)
-        
-        # Update all agents' memory with the latest response
+        structured_response = {
+        "speaker": agent.name,
+        "role": "assistant",
+        "content": response["content"],
+        "mood": mood,
+        "decision_theory": d,
+        "cognitive_pattern": cog,
+        "cliche": c,
+        "social_pressure": s,
+        "environmental_factors": e,
+        "timestamp": time.time()
+        }
+        agent.memory.append(structured_response)
+
         for other_agent in agents:
-            if other_agent != agent:  # Avoid updating the same agent's memory
-                other_agent.memory.append(response)
+            if other_agent != agent:
+                other_agent.memory.append(structured_response)
+
         
         logging.info(f"{agent.name} ({mood}) ({d}) ({cog}) ({c}) ({s}) ({e}): {response['content']}")
         monitor.update_relationship(agent.name, mood)
@@ -95,12 +155,23 @@ while time.time() - start_time < 300:
         
         # Apply social rules and update memory
         response1_content = random_agent.apply_social_rules(mood, response["content"], monitor.relationship_strength)
-        random_agent.memory.append(response)
-        
-        # Update all agents' memory with the latest response
+        structured_response = {
+        "speaker": random_agent.name,
+        "role": "assistant",
+        "content": response["content"],
+        "mood": mood,
+        "decision_theory": d,
+        "cognitive_pattern": cog,
+        "cliche": c,
+        "social_pressure": s,
+        "environmental_factors": e,
+        "timestamp": time.time()
+        }
+        random_agent.memory.append(structured_response)
+
         for other_agent in agents:
-            if other_agent != random_agent:  # Avoid updating the same agent's memory
-                other_agent.memory.append(response)
+            if other_agent != random_agent:
+                other_agent.memory.append(structured_response)
         
         logging.info(f"{random_agent.name} ({mood}) ({d}) ({cog}) ({c}) ({s}) ({e}): {response['content']}")
         monitor.update_relationship(random_agent.name, mood)
