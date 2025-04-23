@@ -17,7 +17,7 @@ class Agent:
             openai_api_key=self.api_key,
             model="deepseek-chat",  # یا deepseek-chat اگر API دیگر دارید
             temperature=0.3,
-            base_url = "domain"
+            base_url = "URL"
             )
 
         self.prompt_template = PromptTemplate(
@@ -59,6 +59,7 @@ class Agent:
         current_environmental_factors = self.factors()
         # ذخیره در حافظه به همراه مود
         self.memory.append({
+            "speaker": self.name,
             "role": "assistant",
             "content": response.content,
             "mood": current_mood,
