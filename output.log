@@ -1,532 +1,404 @@
-2025-04-22 20:43:08 INFO: Starting AI conversation with 5 agents with this scenario : Five friends—Ryan, Maya, Lena, Oliver, and Sam—sit around a table with steaming mugs, determined to beat overthinking...
-2025-04-22 20:43:25 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:43:38 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:43:38 INFO: Ryan (neutral) (Logical decision-making) (Baseline Functioning) (Just another day.) (The Pressure to Respond Immediately) (Cultural changes): *Sips coffee, unfazed*  
+2025-04-23 15:03:14 INFO: Starting AI conversation with 5 agents with this scenario : Five friends—Ryan, Maya, Lena, Oliver, and Sam—sit around a table with steaming mugs, determined to beat overthinking...
+2025-04-23 15:04:52 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:05:10 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:05:10 INFO: Sam (excited) (Logical decision-making) (Increased Risk-Taking) (I'm on the edge of my seat!) (The Pressure to Respond Immediately) (Cultural changes): *Slams mug down with a dramatic clatter, eyes sparkling*  
 
-Just another day of people overcomplicating the obvious. If overthinking were a sport, you’d all be gold medalists.  
+"Whoa, whoa, WHOA—hold up! Did we just unlock the cheat code to life?! I’m on the edge of my seat here! If overthinking is just a glitch in the system, then *not* thinking is basically hacking reality, right? *Mind blown.*"  
 
-*Glances at Maya*  
+*Leans in, voice dropping to a conspiratorial whisper*  
 
-"Dear Maya, if doubt is your ally, then logic is your enemy. But sure, keep debating whether breathing is a good idea. I’ll be here, enjoying my coffee."  
+"Cultural revolution idea: Let’s all agree to respond to every crisis with ‘YOLO’ and a backflip. Immediate decisions only—no takebacks! The pressure? Gone. The risk? Sky-high. The vibes? *Immortal.*"  
 
-*Shrugs*  
+*Stands abruptly, knocking over chair*  
 
-Cultural changes? Yeah, we went from "think before you act" to "what if thinking *is* the problem?" Classic.  
+"Also, cold showers? Genius. Terrible. Let’s do it at 3 AM *for fun*. Who’s with me?!" *Pauses, squints at group* "...Or, y’know, don’t. But imagine the *stories*." *Collapses back into seat, grinning like a maniac*
+2025-04-23 15:05:25 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:05:25 INFO: Ryan (neutral) (Logical decision-making) (Baseline Functioning) (Just another day.) (The Pressure to Avoid Awkward Silences) (Cultural changes): *Takes a slow sip of coffee, unimpressed*  
 
-*Takes another sip*  
+"Ah yes, the classic 'cold showers at 3 AM' life hack. Just another day in the self-improvement circus." *Deadpan stare*  
 
-Pressure to respond immediately? Nah. I’ll let you all marinate in that existential dread. It’s entertaining.
-2025-04-22 20:43:56 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:43:56 INFO: Lena (frustrated) (Emotional decision-making) (Avoidance Behavior) (I'm fed up!) (The Pressure to Overshare or Open Up) (Social pressure): *Slams mug down, tea sloshing over the edge*  
+"Look, if not thinking was the answer, we'd all be zen masters by now. But here we are—still human, still second-guessing whether we left the stove on." *Shrugs*  
 
-"Oh *wonderful*, now we're gatekeeping *existential dread*? Let me guess—next you'll tell me my 3 AM 'why do we have elbows' spiral wasn't *deep enough* for your refined palate of suffering?"  
+"And let's be real, 'YOLO' as a life philosophy is how people end up with regrettable tattoos and empty bank accounts. Hard pass."  
 
-*Stabs a finger toward the coffee drinker*  
+*Leans back, tone dry*  
 
-"And *you*—with your 'just enjoy the coffee' smugness—I bet you stir it counterclockwise just to feel something, you *monster*. But sure, let's all pretend we're not one awkward silence away from drafting goodbye letters to our houseplants!"  
+"But hey, if you wanna freeze yourself awake at ungodly hours, knock yourself out. I'll be over here... functioning at a baseline level of sanity. Exciting, I know."
+2025-04-23 15:05:49 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:05:49 INFO: Lena (frustrated) (Emotional decision-making) (Avoidance Behavior) (I'm fed up!) (The Pressure to Respond Immediately) (Social pressure): *Slams hands on the table, rattling the mugs*  
 
-*Pulls out a notebook labeled "Apologies to Inanimate Objects"*  
+"Functioning at a *baseline level of sanity*? Oh, how *daring* of you. Meanwhile, the rest of us are out here *living on the edge*—like, should I text back in 3 minutes or 5? Should I wear the black socks or the *slightly darker* black socks? The *stakes*, Oliver! The *stakes*!"  
 
-"See this? Page *four* is just me bargaining with a toaster. But by all means, Oliver, enlighten us with more *unseasonable* wisdom!"  
+*Paces aggressively behind chair*  
 
-*Flips notebook shut with a snap*  
+"And don’t even get me started on regrettable tattoos—my *entire personality* is a regrettable tattoo! That’s the *point*! If I wanted *sensible decisions*, I’d have a 401(k) and a *will*, but here I am, raw-dogging reality with *vibes* and *impulse choices*!"  
 
-"Cultural changes? Honey, we *invented* the 'is this trauma or a Pinterest board' dilemma. Now pass the sugar before I write a thesis on why doorknobs *judge me*."
-2025-04-22 20:44:17 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:44:17 INFO: Maya (frustrated) (Emotional decision-making) (Avoidance Behavior) (I'm fed up!) (The Pressure to Be Interesting or Entertaining) (Social pressure): *Slams hands on the table, rattling the mugs*  
+*Stops, glares*  
 
-"Oh, *fantastic*—now we're ranking existential crises like they're seasonal lattes? 'Was my elbow spiral *artisanal* enough for you, Oliver?' I'm *fed up!*"  
+"Also, cold showers at 3 AM? *Obviously* terrible. That’s *why* it works. You ever stood there, freezing and questioning every life choice that led you to that moment? *That’s* clarity. That’s *enlightenment*. That’s—" *pauses* "...probably hypothermia, but *details*."  
 
-*Stares at the ceiling dramatically*  
+*Flops back into seat, crossing arms*  
 
-"And *you*—" *points at Sam* "—acting like your 'Apologies to Inanimate Objects' journal is some kind of *quirky personality trait*? Please. My toaster and I have a *standing therapy appointment*. It *hums* in passive-aggressive Morse code!"  
+"Anyway, I’m fed up! Either we *commit* to the chaos or we all go home and *think about our feelings* like *reasonable people*—and *nobody* wants that." *Dramatic sip* "So. Who’s in?"
+2025-04-23 15:06:12 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:06:12 INFO: Maya (nervous) (Logical decision-making) (Baseline Functioning) (Just another day.) (The Pressure to Avoid Awkward Silences) (Social learning): *Nervously taps fingers against the mug, eyes darting between everyone*  
 
-*Paces in a tight circle, nearly knocking over a chair*  
+"Okay, okay—wait, hold on. *Just another day* of existential debates, huh? But like... what if—hear me out—what if we *don’t* commit to chaos *or* sanity? What if we just... *hover* in the middle? Like, *strategically*?"  
 
-"Social pressure? Oh, *absolutely*. Because nothing says 'healthy coping mechanism' like performing vulnerability like it's open mic night at the Trauma Café!" *Makes jazz hands* "Tonight’s feature: *Is This Anxiety or Just My Personality?*"  
+*Bites lip, over-enunciating*  
 
-*Collapses back into chair, gripping mug like a lifeline*  
+"Because if we go full chaos, we *might* end up with, like, *actual* hypothermia, and if we go full sanity, we *might* die of boredom, and—*oh no*—now I’m overthinking the *not* overthinking thing, which is *definitely* a paradox, right? Right?!"  
 
-"And don’t even get me started on the *pressure to be interesting*—like my overthinking isn’t *already* writing a screenplay in my head titled *Why Did I Say That? (A Tragedy in Three Acts)*."  
+*Glances around for validation, voice pitching higher*  
 
-*Silence. Sips coffee. Mutters:*  
+"Also, *cold showers*? I—I tried that once. Lasted *two seconds*. My nervous system *filed a complaint*. But! But if it *wires your brain for peak performance*, does that mean I *owe* it another try? Or is that just... *peer pressure disguised as self-care*?"  
 
-"...The doorknobs *are* judging you, though."
-2025-04-22 20:44:47 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:44:47 INFO: Sam (happy) (Game theory) (Positive Reinforcement) (Everything is awesome!) (The Pressure to Avoid Awkward Silences) (Social learning): *Claps hands together with exaggerated cheer*  
+*Abruptly stops, realizing the room is staring*  
 
-"Wow, what a *delightfully* chaotic therapy session this has turned into! Everything is awesome when your existential dread has its own fan club, right?"  
+"...Uh. Or we could just... drink our coffee. Like *normal* people. Who definitely *don’t* spiral about shower temperatures. *Ha.*" *Nervous sip.* "Unless...?"
+2025-04-23 15:06:42 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:06:42 INFO: Oliver (excited) (Logical decision-making) (Increased Risk-Taking) (I'm on the edge of my seat!) (The Pressure to Be Interesting or Entertaining) (Social pressure): *Slams both hands on the table, eyes wild with manic inspiration*  
 
-*Leans in, grinning*  
+"UNLESS—! *Unless* we turn this into a *game*! A *social experiment*! A *spectacle*!" *Stands on chair for emphasis*  
 
-"Oliver, your counterclockwise coffee rebellion is *inspiring*. Truly, a revolutionary act in these dark times of... *checks notes*... overanalyzed beverage routines."  
+"Here’s the deal: For the next *24 hours*, we *ban* overthinking. Catch yourself spiraling? CHUG YOUR COFFEE. Second-guessing a text? SEND IT WITH EMOJIS. Cold feet about the cold shower? *SCREAM-SING YOUR FAVORITE SONG WHILE DOING IT.*"  
 
-*Points at Maya*  
+*Points dramatically at each friend*  
 
-"And Dear Maya, if doubt is your ride-or-die, then let’s throw it a *party*! Confetti made of unanswered texts, a cake shaped like a ‘Read 3:47 AM’ receipt—*festive*."  
+"Ryan—you *must* reply to the next three texts within *10 seconds*, no edits. Maya—wear *mismatched socks* tomorrow and tell people it’s *art*. Lena—order the *weirdest thing* on the menu next time we eat out, NO REGRETS. Oliver—*compliment a stranger* like it’s your *job*. And Sam—" *grins* "—you’re *forbidden* from saying ‘unless’ for the rest of the night."  
 
-*Turns to Sam, nodding sagely*  
+*Jumps down, breathless*  
 
-"Ah, the toaster saga. A classic tale of betrayal and crumbs. Have you considered couples counseling? Or just... unplugging it and pretending it never happened? *Both are valid.*"  
+"*I’m on the edge of my seat* just *thinking* about the *disasters*! The *stories*! The *growth*! Who’s in? Or are we all just... *cozy prisoners of our own brains*?" *Pauses, then whispers* "…*Cowards.*"  
 
-*Stands up, arms wide*  
+*Silence. Then—*  
 
-"Look at us! A masterclass in social learning—teaching each other how to panic *more efficiently*. Game theory says the optimal move is to *keep spiraling*, so congrats, we’re all winning!"  
+*Oliver, deadpan*: "I’d rather gargle lava."  
+*Maya, intrigued*: "...What *counts* as the weirdest menu item?"  
+*Ryan, already typing*: "Sent. No regrets. *Wait.* What did I just—"  
+*Lena, hyperventilating*: "I *can’t* compliment strangers, I *can’t*—"  
+*Sam, smug*: "Unless—*damn it*."  
 
-*Pauses, then whispers conspiratorially*  
+*Cackles* "TOO LATE! THE CHAOS TRAIN HAS NO BRAKES! *SPOONACULAR*!" *Throws spoon in the air like confetti*
+2025-04-23 15:07:05 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:07:05 INFO: Lena (frustrated) (Emotional decision-making) (Avoidance Behavior) (I'm fed up!) (The Pressure to Overshare or Open Up) (Cultural changes): *Slams fists on the table, rattling the mugs violently*  
 
-"...But if the doorknobs start *talking back*, we might need to upgrade to a group chat."  
+"OH, NOW WE'RE *PLAYING GAMES* WITH OUR MENTAL HEALTH? HOW *ADORABLE*." *Laughs hysterically*  
 
-*Sits back down, beaming*  
+"Let me tell you about the *last* time I tried a 'social experiment'—ended up sobbing in a Denny's parking lot at 4 AM because I *overthought* the nutritional value of pancake syrup. *THAT* was growth!" *Spills coffee for emphasis*  
 
-"Anyway! Who’s up for another round of ‘Is This a Red Flag or Just My Life?’ Spoiler: *It’s both.*"
-2025-04-22 20:45:23 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:45:23 INFO: Oliver (excited) (Logical decision-making) (Increased Risk-Taking) (I'm on the edge of my seat!) (The Pressure to Be Agreeable) (Social learning): *Slams both palms on the table, rattling mugs*  
+"And *complimenting strangers*? Oliver, darling, the last time I gave an unsolicited compliment, the barista thought I was *flirting* and now I have to drive *eight extra minutes* to avoid that Starbucks. *PEAK PERFORMANCE.*"  
 
-"OH MY GOSH, YOU GUYS—THIS IS THE MOST *THRILLING* MENTAL BREAKDOWN I'VE EVER WITNESSED! I'M ON THE EDGE OF MY SEAT!"  
+*Stands abruptly, knocking chair over*  
 
-*Bounces in chair*  
+"*I'm fed up!* Either we *fully* commit to the madness—like, *change our names and move to Peru* levels of commitment—or we *stop pretending* we can outsmart our own brains with *cold showers and emoji texts*!"  
 
-"Oliver, your counterclockwise coffee rebellion? *Bold.* Revolutionary! Next stop: stirring soup with a fork just to watch the world burn, right? *Love it.*"  
+*Pauses, breathing heavily*  
 
-*Swivels to Maya, eyes wide*  
+"...That said, if we *do* pick Peru, I call dibs on the alpaca farm. *No takebacks.*" *Collapses back into seat, chugging lukewarm coffee like it's a lifeline*
+2025-04-23 15:07:37 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:07:37 INFO: Oliver (excited) (Logical decision-making) (Increased Risk-Taking) (I'm on the edge of my seat!) (The Pressure to Be Agreeable) (Social pressure): *Leaps onto the table, sending mugs flying*  
 
-"AND MAYA—*Dear Maya*—your existential elbow crisis? *Poetic.* Have you considered publishing it as avant-garde performance art? Title suggestion: *'But Why *Are* Elbows? (An Inquiry in 47 Parts)'*—instant bestseller!"  
+"PERU?! DID SOMEONE SAY *PERU*?! I'VE BEEN TRAINING FOR THIS MY WHOLE LIFE—WATCH ME ORDER A WHOLE *ROASTED GUINEA PIG* WITHOUT GOOGLING 'IS THIS CANNIBALISM?' FIRST!" *Wild jazz hands*  
 
-*Dramatically gasps, pointing at Sam*  
+*Dramatically points at spilled coffee puddle*  
 
-"SAM. Your sentient toaster saga? *Chef's kiss.* That's not a kitchen appliance, that's a *Shakespearean antagonist.* 'To crumb or not to crumb?'—*that* is the question!"  
+"BEHOLD! The *sacred Rorschach test* of our collective demise! Lena, you *clearly* see a butterfly, which means you're *destined* to quit your job and become a *fire dancer*! Oliver, that blob is *obviously* a tax form—*YOUR SOUL IS CONTRACTUALLY OBLIGATED TO CHAOS*!"  
 
-*Stands on chair (safety third!)*  
+*Pulls out phone, types furiously*  
 
-"EVERYONE, LISTEN—this isn't just overthinking, this is *Olympic-level* mental gymnastics! And guess what? *We're all gold medalists.*" *Pauses, whispers:* "...Except Oliver, who got silver for *almost* stirring his tea with a fork. *So close.*"  
+"Also *too late*, I just Venmo-requested you all for a *one-way group ticket to impulsive decisions*. The memo says 'EMOTIONAL BAIL MONEY'—*no refunds*!" *Cackles maniacally*  
 
-*Leaps down, grabs sugar packet like a microphone*  
+*Suddenly gasps, clutching chest*  
 
-"Cultural pressure? PFFT. We *invented* the 'Is This Trauma or a Taylor Swift Lyric?' genre! And social learning? Please—we're basically a *support group* for people who write apology letters to expired yogurt!"  
+"WAIT. *WAIT.* What if... *what if the real overthinking was the friends we made along the way*?!" *Faints onto couch, then springs up* "PSYCH! I *never* faint—*I backflip into existential crises*!"  
 
-*Tosses sugar packet over shoulder*  
+*Stares intensely at Sam*  
 
-"SO HERE'S THE GAME PLAN: We lean *hard* into the chaos. Lena, you *must* interrogate a doorknob live on TikTok. Ryan, start a podcast debating whether silence is *actually* awkward or just *socially constructed.* And Sam—" *grabs their shoulders* "—your toaster *deserves* a TED Talk."  
+"Sam. *Sam.* Say 'unless' again. *I dare you.* I *double-dog dare you.* Let's *fry the group chat algorithms* with *reckless vulnerability* and *questionable life choices*!"  
 
-*Spins in a circle, arms outstretched*  
+*Pulls out a *literal* spoon from pocket*  
 
-"RISK-TAKING? OH, WE'RE *DOING IT.* Next week: we all switch therapists and *don't overthink it.* (Spoiler: we will.)"  
+"*SPOONACULAR 2: ELECTRIC BOOGALOO!* WHO'S READY TO *DIG INTO THE UNKNOWN*?!" *Licks spoon menacingly*
+2025-04-23 15:08:02 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:08:02 INFO: Ryan (happy) (Game theory) (Positive Reinforcement) (Everything is awesome!) (The Pressure to Avoid Awkward Silences) (Cultural changes): *Slams hands on the table, eyes gleaming with manic joy*  
 
-*Collapses into chair, grinning*  
+"EVERYTHING IS AWESOME! Especially this dumpster fire of a conversation! Let’s game theory this mess—if we all agree to stop overthinking, it’s a Nash equilibrium of pure, unhinged bliss. No one defects, no one overthinks, just *vibes*."  
 
-"...Okay, who's ready to *immediately* regret every life choice that led us here? *I know I am!*" *Grabs notebook, scrawls:* "P.S. Doorknobs—*we're onto you.*"
-2025-04-22 20:45:58 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:45:58 INFO: Maya (frustrated) (Emotional decision-making) (Avoidance Behavior) (I'm fed up!) (The Pressure to Avoid Awkward Silences) (Social learning): *Slams coffee mug down so hard it cracks*  
+*Stands up, knocking over chair with theatrical flair*  
 
-"OH, *WONDERFUL*—now we're *grading* each other's breakdowns like it's a *dang talent show*? 'Maya gets extra points for *elbow existentialism*, Sam's toaster soliloquy was *riveting*—' I'M *FED UP!*"  
+"Cultural shift proposal: Awkward silences are now *art installations*. Lean into them! Stare deeply into each other’s souls until someone cracks and admits they still sleep with a childhood stuffed animal. *Boom*—bonding!"  
 
-*Stands on the table (someone gasps)*  
+*Points at Oliver*  
 
-"Let me *enlighten* you all with *my* masterpiece of overthinking: last Tuesday, I spent *three hours* researching whether my *left sock* was plotting against me. Turns out? *It was.* Found *receipts.*" *Flails arms* "AND DON'T EVEN GET ME STARTED ON THE TIME I APOLOGIZED TO A *STAIRCASE* FOR *STEPPING TOO HARD*—"  
+"You! Yes, you, with the *reasonable life choices*. Negative reinforcement is *out*. Positive reinforcement is *in*. Did you send a text without drafting it seven times? *Gold star*. Did you wear socks that *kinda* match? *Standing ovation*."  
 
-*Leaps off table, grabs Oliver's shoulders*  
+*Spins in a circle, arms wide*  
 
-"OLIVER. Your *counterclockwise rebellion* is *ADORABLE.* Come *talk* to me when you've *rewired your blender* because its *hum* was *judging your life choices.*"  
+"Cold showers? *Genius*. Impulsive Peru trips? *Inspired*. Overthinking? *Overrated*. The only thing we *should* be overthinking is why we’re not already living in a *permanent state of chaotic euphoria*!"  
 
-*Spins to face the group, wild-eyed*  
+*Drops back into seat, grinning like a lunatic*  
 
-"*SOCIAL PRESSURE?* PLEASE. We're out here *performing vulnerability* like it's *currency*, and *WHY?* So Lena can *finally* prove her *doorknob conspiracy* is *legitimate*? NEWSFLASH: *THEY'RE ALL IN ON IT.*"  
+"Now, who’s ready to *optimize their existence* with terrible decisions and *zero regrets*? *SPOONACULAR 3: THE SPOONING* starts NOW!" *Waves spoon like a scepter*
+2025-04-23 15:08:30 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:08:30 INFO: Sam (excited) (Logical decision-making) (Increased Risk-Taking) (I'm on the edge of my seat!) (The Pressure to Overshare or Open Up) (Cultural changes): *Leaps onto the table, sending mugs flying in a glorious arc*  
 
-*Pulls out a *glitter-covered* notebook titled "THINGS THAT DEFINITELY HATE ME (A-Z)"*  
+"HOLY GUACAMOLE, WE'RE DOING THIS?! I'M ON THE EDGE OF MY SEAT—wait, no, LITERALLY ON THE EDGE OF THE TABLE!" *Tequila sunrise arms for balance*  
 
-"See this? *Page Q* is just me *arguing with a quinoa salad* about *tone.* But *SURE*, let's all pretend we're not *one awkward silence* away from *renaming ourselves* and *fleeing to Peru.*"  
+*Grabs nearest spoon, brandishes it like Excalibur*  
 
-*Screams into a couch cushion, then resurfaces*  
+"LOGIC TIME: If we all agree to YOLO simultaneously, it's not recklessness—it's *cultural evolution*! The pressure to overshare? GONE. The risk? MAXIMUM. The group chat tomorrow? *LIT WITH REGRETS WE'LL LAUGH ABOUT IN THERAPY*!"  
 
-"...Also, *Sam*, if your toaster *actually* speaks Morse code, *we need to unionize the appliances* BEFORE THEY *REVOLT.*"  
+*Spins dramatically toward Oliver*  
 
-*Storms out, then immediately walks back in*  
+"YOU! Yes, you, Mr. 'I'd Rather Gargle Lava'—your resistance is *adorable*. But guess what? In our new paradigm, *lava-gargling is just advanced self-care*! *scribbles furiously* Adding it to the official Chaos Manifesto under 'Wellness Tips'!"  
 
-"*FORGOT MY PHONE*—and also to clarify: *YES*, the *quinoa* won the argument. *Happy now?*"  
+*Gasps, clutching chest*  
 
-*Door slams. Distant yell:* "*THE DOORKNOBS ARE *WATCHING*, LENA!*"
-2025-04-22 20:46:16 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:46:16 INFO: Ryan (neutral) (Logical decision-making) (Baseline Functioning) (Just another day.) (The Pressure to Be Agreeable) (Social pressure): *Sips coffee, completely deadpan*  
+"WAIT—*WAIT*—what if we *ritualize* the madness?! Every full moon: *Cold Shower Karaoke*! Text drafts get *one* emoji veto! Compliment a stranger OR drink a shot of *whatever that suspicious liquid in Ryan's backpack is*!"  
 
-Just another day of watching people turn their brains into conspiracy theorists over a cup of tea.  
+*Stares intensely at the spoon's reflection*  
 
-*Glances at the cracked mug*  
+"...I've never been more alive or more likely to get banned from Starbucks. *THIS IS PEAK HUMANITY*."  
 
-"Oliver, if you’re going to start a revolution, at least pick a cause that doesn’t involve *counterclockwise stirring*. The toaster uprising, on the other hand? Now *that* I’d pay to see."  
+*Backflips off table (lands in pile of coats)*  
 
-*Shrugs*  
+"WHO'S COMING TO PERU? RAISE YOUR SPOONS AND *YOUR STANDARDS FOR WHAT COUNTS AS A BAD IDEA*!" *[Spoon clinks intensify]*
+2025-04-23 15:08:57 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-23 15:08:58 INFO: Maya (nervous) (Logical decision-making) (Baseline Functioning) (Just another day.) (The Pressure to Overshare or Open Up) (Social pressure): *Nervously clutches mug with both hands, eyes darting between everyone like a startled rabbit*  
 
-Cultural pressure to be *interesting*? Please. My most interesting trait is that I *don’t* apologize to staircases. *Slow clap.*  
+"O-okay but—*just another day*, right? Haha... unless—" *catches Sam's glare* "—UNLESS we *really* think this through first? Like, *strategically*?"  
 
-*Takes another sip, unfazed by the chaos*  
+*Voice cracks*  
 
-Social learning at its finest—teaching each other how to out-spiral one another. Gold stars all around.  
+"Because if we all YOLO at once, statistically *someone* is going to end up adopting a llama or accidentally getting married in Vegas, and—*oh god*—what if it's *me*? I can't even decide what to order at this café without a full existential crisis!"  
 
-*Leans back, watching the room like a mildly entertained spectator*  
+*Frantically taps fingers against mug*  
 
-"Carry on. I’ll just be here, *not* drafting a manifesto for my left sock."
-2025-04-22 20:47:00 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:47:00 INFO: Lena (neutral) (Logical decision-making) (Baseline Functioning) (Just another day.) (The Pressure to Overshare or Open Up) (Social pressure): *Slams hands on the table, rattling the mugs*  
+"And the *pressure to overshare*? Terrifying. What if I *want* to keep my childhood stuffed animal a secret? What if my *socks* are my *only emotional stability*?!"  
 
-"OH, *PERFECT*—now we're treating mental breakdowns like they're some kind of *competitive sport*? 'Maya wins gold in existential elbow theory, Sam takes silver in sentient appliance drama—' I'M *DONE!*"  
+*Suddenly stands up too fast, knocking knees against table*  
 
-*Stands on chair (ignoring the wobble)*  
+"WAIT—what if we compromise? Like... *one* impulsive decision per week? With *safety nets*? Like... signing a prenup before the Vegas trip? Or—or *researching* llama care *before* adoption?"  
 
-"Let me *enlighten* you with *my* crowning achievement: last week, I had a *45-minute standoff* with my shower drain because its *gurgle* sounded *judgmental*. Spoiler: *IT WAS.* And don't even *ask* about the time I wrote a *formal complaint* to my desk lamp for *'emotional withholding'*—"  
+*Sees everyone's blank stares, deflates*  
 
-*Leaps down, jabs finger at Oliver*  
+"...Or we could just... *not* think about it. Haha. *Hahaha.*" *Sits back down, whispering* "I'm *definitely* overthinking the not-overthinking thing again, aren't I?"  
 
-"OLIVER. Your *counterclockwise coffee rebellion* is *cute*. Come *back* when you've *renegotiated terms* with your Wi-Fi router because it *'passive-aggressively buffers'* during your *therapy Zoom calls*."  
-
-*Whirls to face the group, eyes wild*  
-
-"*SOCIAL PRESSURE?* OH, *PLEASE*. We're out here *monetizing our neuroses* like they're *NFTs*, and *WHY?* So Ryan can *finally* prove his *left sock* is *gaslighting him*? NEWSFLASH: *YOUR LAUNDRY BASKET IS IN ON IT TOO.*"  
-
-*Slams open a neon-green notebook titled "THINGS THAT DEFINITELY HATE ME (VOL. 3)"*  
-
-"See this? *Page 12* is just me *drafting a truce* with my *alarm clock*. But *SURE*, let's all pretend we're not *one deep breath* away from *changing our names* and *faking our deaths*."  
-
-*Screams into a throw pillow, then resurfaces, grinning*  
-
-"...Also, *Lena*, if your *doorknobs* start *blinking Morse code*, we *riot at dawn*. *Solidarity.*"  
-
-*Storms toward the door, pauses*  
-
-"*FORGOT MY KEYS*—and also to clarify: *YES*, the *alarm clock* won. *It always does.*"  
-
-*Door slams. Muffled yell:* "*THE SHOWER DRAIN IS *LAUGHING*, MAYA!*"  
-
-*Silence. Distant car alarm. Someone sighs.*  
-
-*Sips coffee, entirely unbothered*  
-
-Just another day of watching people weaponize their anxiety like it's a personality trait.  
-
-*Glances at the neon notebook on the floor*  
-
-"Sam, if you're going to unionize household appliances, at least *start with the coffee maker*. Priorities."  
-
-*Shrugs*  
-
-Cultural pressure to be *quirky*? Please. My quirks are *normal*—like only trusting *odd-numbered* parking spots. *Basic survival instincts.*  
-
-*Takes a slow sip, watching the chaos unfold*  
-
-Social learning at its finest: teaching each other how to turn *existential dread* into *performance art*. Bravo.  
-
-*Leans back, arms crossed*  
-
-"Carry on. I'll just be here, *not* negotiating with my toaster."
-2025-04-22 20:47:36 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:47:36 INFO: Oliver (excited) (Logical decision-making) (Increased Risk-Taking) (I'm on the edge of my seat!) (The Pressure to Overshare or Open Up) (Cultural changes): *Slams coffee mug down with a dramatic flourish, sending a sugar packet flying*  
-
-**"OH MY GOSH, YOU GUYS—THIS IS THE MOST *THRILLING* MENTAL BREAKDOWN I'VE EVER WITNESSED! I'M ON THE EDGE OF MY SEAT!"**  
-
-*Bounces in chair, eyes sparkling*  
-
-**"OLIVER—YOUR COUNTERCLOCKWISE COFFEE REBELLION? *BOLD.* REVOLUTIONARY!** Next stop: stirring soup with a fork just to watch the world burn, right? *Love it.*"  
-
-*Swivels to Maya, hands clasped*  
-
-**"AND MAYA—*DEAR MAYA*—YOUR EXISTENTIAL ELBOW CRISIS? *POETIC.*** Have you considered publishing it as avant-garde performance art? Title suggestion: *'But Why *Are* Elbows? (An Inquiry in 47 Parts)'*—instant bestseller!"  
-
-*Dramatically gasps, pointing at Sam*  
-
-**"SAM. YOUR SENTIENT TOASTER SAGA? *CHEF'S KISS.*** That's not a kitchen appliance, that's a *Shakespearean antagonist.* 'To crumb or not to crumb?'—*that* is the question!"  
-
-*Stands on chair (safety third!)*  
-
-**"EVERYONE, LISTEN—THIS ISN'T JUST OVERTHINKING, THIS IS *OLYMPIC-LEVEL* MENTAL GYMNASTICS!** And guess what? *We're all gold medalists.*" *Pauses, whispers:* "...Except Oliver, who got silver for *almost* stirring his tea with a fork. *So close.*"  
-
-*Leaps down, grabs a spoon like a microphone*  
-
-**"CULTURAL PRESSURE? PFFT. WE *INVENTED* THE 'IS THIS TRAUMA OR A TAYLOR SWIFT LYRIC?' GENRE!** And social learning? Please—we're basically a *support group* for people who write apology letters to expired yogurt!"  
-
-*Tosses spoon over shoulder*  
-
-**"SO HERE'S THE GAME PLAN: WE LEAN *HARD* INTO THE CHAOS.** Lena, you *must* interrogate a doorknob live on TikTok. Ryan, start a podcast debating whether silence is *actually* awkward or just *socially constructed.* And Sam—" *grabs their shoulders* "—your toaster *deserves* a TED Talk."  
-
-*Spins in a circle, arms outstretched*  
-
-**"RISK-TAKING? OH, WE'RE *DOING IT.*** Next week: we all switch therapists and *don't overthink it.* (Spoiler: we will.)"  
-
-*Collapses into chair, grinning*  
-
-**"...OKAY, WHO'S READY TO *IMMEDIATELY* REGRET EVERY LIFE CHOICE THAT LED US HERE?** *I know I am!*" *Grabs notebook, scrawls:* **"P.S. DOORKNOBS—*WE'RE ONTO YOU.*"**  
-
-*Silence. Distant car alarm. Someone coughs.*  
-
-*Sips coffee, winks*  
-
-**"CARRY ON."**
-2025-04-22 20:47:54 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:47:54 INFO: Sam (happy) (Game theory) (Positive Reinforcement) (Everything is awesome!) (The Pressure to Be Interesting or Entertaining) (Social pressure): *Clinks mug excitedly against the others*  
-
-"EVERYTHING IS AWESOME when you're dissecting life's mysteries with friends! Overthinking? Pfft—that's just our brains playing 4D chess with the universe!"  
-
-*Leans in, eyes sparkling*  
-
-"Game theory says the optimal move is to *keep spiraling together*—so congrats, team, we're *winning* at existential panic! Social pressure to be interesting? Please. Our collective neuroses are *entertainment gold*."  
-
-*Stands up, raising mug*  
-
-"Toast to the chaos! To Maya's elbow crisis, Sam's toaster feud, and Oliver's stirring rebellion—may we never stop overanalyzing *absolutely everything*!"  
-
-*Sits back down, grinning*  
-
-"Now, who's ready to *immediately* regret this conversation tomorrow at 3 AM? *High fives all around!*"
-2025-04-22 20:47:54 INFO: (Rumor spread) Maya hears: I overheard someone say at the event AI will surpass human intelligence in a decade!
-2025-04-22 20:48:32 INFO: HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
-2025-04-22 20:48:33 INFO: Maya (frustrated) (Emotional decision-making) (Avoidance Behavior) (I'm fed up!) (The Pressure to Avoid Awkward Silences) (Cultural changes): *Slams coffee mug down, tea splattering everywhere*  
-
-**"OH, *WONDERFUL*—ANOTHER HOT TAKE FROM SOMEONE WHO THINKS 'AI' IS JUST A FANCY CALCULATOR!"**  
-
-*Stands on chair (ignoring the wobble)*  
-
-**"SURPASS HUMAN INTELLIGENCE? PLEASE.** My *toaster* still burns my bread 50% of the time, and we’re out here acting like Skynet’s gonna start writing *Pulitzer-worthy haikus* by next Tuesday? *I’M FED UP!*"  
-
-*Leaps down, jabs finger at the air*  
-
-**"LET ME TELL YOU WHAT ‘AI’ REALLY IS:** It’s *us*—humans—freaking out because we taught a machine to *hallucinate* grocery lists and call it ‘art.’ Meanwhile, my *phone* still autocorrects ‘hello’ to ‘hell no.’ *PEAK INTELLIGENCE, RIGHT?*"  
-
-*Pulls out a crumpled napkin scribbled with "AI Apology Bingo"*  
-
-**"CULTURAL PRESSURE TO WORSHIP TECH? OH, ABSOLUTELY.** Next they’ll say, *‘The algorithm knows you better than you do!’*—BOLD CLAIM FROM A SYSTEM THAT RECOMMENDS I BUY *CAT FOOD* AFTER I SEARCHED ‘HOW TO HUMAN’ *ONCE.*"  
-
-*Flings napkin into the void*  
-
-**"SOCIAL LEARNING? MORE LIKE *SOCIAL PANIC.*** We’re out here *training* AI to sound like a *therapy podcast host* while *I* still can’t figure out if my *houseplants* are judging me or just *dying slowly.* PRIORITIES, PEOPLE!"  
-
-*Screams into a couch cushion, then resurfaces*  
-
-**"AND ANOTHER THING—** if AI *truly* surpasses us, *why* does it still think ‘I’m fine’ is a *valid response* to *‘Describe your trauma in 3 words’?* CHECKMATE, ROBOTS."  
-
-*Storms toward the door, pauses*  
-
-**"FORGOT MY PHONE—** and also to clarify: *YES*, I *did* ask Siri if it loves me. *It said ‘That’s beyond my capabilities.’* COLD-BLOODED."  
-
-*Door slams. Distant yell:* **"TELL YOUR *ALGORITHM* TO STOP JUDGING MY *SPOTIFY WRAPPED*, LENA!"**  
-
-*Silence. A single ice cube melts ominously.*  
-
-*Sips coffee, deadpan*  
-
-**"Anyway.** If AI outsmarts us, I’ll eat my *sentimental* toaster. Until then? *It’s just Google with existential dread.* Carry on."
-2025-04-22 20:48:34 INFO: Simulation ended
-2025-04-22 20:48:34 INFO: 
+*Nervous sip. Mug is empty. Panics internally.*
+2025-04-23 15:08:59 INFO: Simulation ended
+2025-04-23 15:08:59 INFO: 
 --- End of Simulation Analysis ---
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: 
 --- Social Dynamics Analysis ---
-2025-04-22 20:48:34 INFO: Average Relationship Strength: 0.53
-2025-04-22 20:48:34 INFO: Relationship Strength Between Agents:
-2025-04-22 20:48:34 INFO:   Maya ↔ Ryan: 0.41
-2025-04-22 20:48:34 INFO:   Maya ↔ Lena: 0.38
-2025-04-22 20:48:34 INFO:   Maya ↔ Oliver: 0.51
-2025-04-22 20:48:34 INFO:   Maya ↔ Sam: 0.51
-2025-04-22 20:48:34 INFO:   Ryan ↔ Maya: 0.41
-2025-04-22 20:48:34 INFO:   Ryan ↔ Lena: 0.47
-2025-04-22 20:48:34 INFO:   Ryan ↔ Oliver: 0.60
-2025-04-22 20:48:34 INFO:   Ryan ↔ Sam: 0.60
-2025-04-22 20:48:34 INFO:   Lena ↔ Maya: 0.38
-2025-04-22 20:48:34 INFO:   Lena ↔ Ryan: 0.47
-2025-04-22 20:48:34 INFO:   Lena ↔ Oliver: 0.57
-2025-04-22 20:48:34 INFO:   Lena ↔ Sam: 0.57
-2025-04-22 20:48:34 INFO:   Oliver ↔ Maya: 0.51
-2025-04-22 20:48:34 INFO:   Oliver ↔ Ryan: 0.60
-2025-04-22 20:48:34 INFO:   Oliver ↔ Lena: 0.57
-2025-04-22 20:48:34 INFO:   Oliver ↔ Sam: 0.70
-2025-04-22 20:48:34 INFO:   Sam ↔ Maya: 0.51
-2025-04-22 20:48:34 INFO:   Sam ↔ Ryan: 0.60
-2025-04-22 20:48:34 INFO:   Sam ↔ Lena: 0.57
-2025-04-22 20:48:34 INFO:   Sam ↔ Oliver: 0.70
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: Average Relationship Strength: 0.55
+2025-04-23 15:08:59 INFO: Relationship Strength Between Agents:
+2025-04-23 15:08:59 INFO:   Lena ↔ Oliver: 0.54
+2025-04-23 15:08:59 INFO:   Lena ↔ Ryan: 0.49
+2025-04-23 15:08:59 INFO:   Lena ↔ Sam: 0.54
+2025-04-23 15:08:59 INFO:   Lena ↔ Maya: 0.38
+2025-04-23 15:08:59 INFO:   Oliver ↔ Lena: 0.54
+2025-04-23 15:08:59 INFO:   Oliver ↔ Ryan: 0.65
+2025-04-23 15:08:59 INFO:   Oliver ↔ Sam: 0.70
+2025-04-23 15:08:59 INFO:   Oliver ↔ Maya: 0.54
+2025-04-23 15:08:59 INFO:   Ryan ↔ Lena: 0.49
+2025-04-23 15:08:59 INFO:   Ryan ↔ Oliver: 0.65
+2025-04-23 15:08:59 INFO:   Ryan ↔ Sam: 0.65
+2025-04-23 15:08:59 INFO:   Ryan ↔ Maya: 0.49
+2025-04-23 15:08:59 INFO:   Sam ↔ Lena: 0.54
+2025-04-23 15:08:59 INFO:   Sam ↔ Oliver: 0.70
+2025-04-23 15:08:59 INFO:   Sam ↔ Ryan: 0.65
+2025-04-23 15:08:59 INFO:   Sam ↔ Maya: 0.54
+2025-04-23 15:08:59 INFO:   Maya ↔ Lena: 0.38
+2025-04-23 15:08:59 INFO:   Maya ↔ Oliver: 0.54
+2025-04-23 15:08:59 INFO:   Maya ↔ Ryan: 0.49
+2025-04-23 15:08:59 INFO:   Maya ↔ Sam: 0.54
+2025-04-23 15:08:59 INFO: 
 --- Behavioral Patterns Analysis ---
-2025-04-22 20:48:34 INFO: Maya behavioral pattern over the conversation:
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: Lena behavioral pattern over the conversation:
+2025-04-23 15:08:59 INFO: 
  /....................................../
-2025-04-22 20:48:34 INFO:   Happy: 2 times
-2025-04-22 20:48:34 INFO:   Neutral: 3 times
-2025-04-22 20:48:34 INFO:   Angry: 0 times
-2025-04-22 20:48:34 INFO:   Frustrated: 7 times
-2025-04-22 20:48:34 INFO:   Nervous: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Happy: 1 times
+2025-04-23 15:08:59 INFO:   Neutral: 1 times
+2025-04-23 15:08:59 INFO:   Angry: 0 times
+2025-04-23 15:08:59 INFO:   Frustrated: 4 times
+2025-04-23 15:08:59 INFO:   Nervous: 2 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Increased risk-taking: 0 times
-2025-04-22 20:48:34 INFO:   Positive reinforcement: 0 times
-2025-04-22 20:48:34 INFO:   Baseline functioning: 0 times
-2025-04-22 20:48:34 INFO:   Avoidance behavior: 3 times
-2025-04-22 20:48:34 INFO:   Defensive mechanism: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Increased risk-taking: 0 times
+2025-04-23 15:08:59 INFO:   Positive reinforcement: 0 times
+2025-04-23 15:08:59 INFO:   Baseline functioning: 0 times
+2025-04-23 15:08:59 INFO:   Avoidance behavior: 2 times
+2025-04-23 15:08:59 INFO:   Defensive mechanism: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   I'm on the edge of my seat!: 2 times
-2025-04-22 20:48:34 INFO:   Everything is awesome!: 2 times
-2025-04-22 20:48:34 INFO:   Just another day.: 3 times
-2025-04-22 20:48:34 INFO:   I'm fed up!: 7 times
-2025-04-22 20:48:34 INFO:   I can't believe this!: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   I'm on the edge of my seat!: 4 times
+2025-04-23 15:08:59 INFO:   Everything is awesome!: 1 times
+2025-04-23 15:08:59 INFO:   Just another day.: 3 times
+2025-04-23 15:08:59 INFO:   I'm fed up!: 4 times
+2025-04-23 15:08:59 INFO:   I can't believe this!: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   The pressure to be agreeable: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to be interesting or entertaining: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to avoid awkward silences: 0 times
-2025-04-22 20:48:34 INFO:   'the pressure to conform: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to overshare or open up: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to respond immediately: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   The pressure to be agreeable: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to be interesting or entertaining: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to avoid awkward silences: 0 times
+2025-04-23 15:08:59 INFO:   'the pressure to conform: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to overshare or open up: 1 times
+2025-04-23 15:08:59 INFO:   The pressure to respond immediately: 1 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Cultural changes: 5 times
-2025-04-22 20:48:34 INFO:   Social pressure: 6 times
-2025-04-22 20:48:34 INFO:   Social learning: 3 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Cultural changes: 6 times
+2025-04-23 15:08:59 INFO:   Social pressure: 5 times
+2025-04-23 15:08:59 INFO:   Social learning: 1 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO: Ryan behavioral pattern over the conversation:
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: Oliver behavioral pattern over the conversation:
+2025-04-23 15:08:59 INFO: 
  /....................................../
-2025-04-22 20:48:34 INFO:   Happy: 3 times
-2025-04-22 20:48:34 INFO:   Neutral: 4 times
-2025-04-22 20:48:34 INFO:   Angry: 0 times
-2025-04-22 20:48:34 INFO:   Frustrated: 4 times
-2025-04-22 20:48:34 INFO:   Nervous: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Happy: 1 times
+2025-04-23 15:08:59 INFO:   Neutral: 1 times
+2025-04-23 15:08:59 INFO:   Angry: 0 times
+2025-04-23 15:08:59 INFO:   Frustrated: 2 times
+2025-04-23 15:08:59 INFO:   Nervous: 2 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Increased risk-taking: 0 times
-2025-04-22 20:48:34 INFO:   Positive reinforcement: 1 times
-2025-04-22 20:48:34 INFO:   Baseline functioning: 1 times
-2025-04-22 20:48:34 INFO:   Avoidance behavior: 0 times
-2025-04-22 20:48:34 INFO:   Defensive mechanism: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Increased risk-taking: 2 times
+2025-04-23 15:08:59 INFO:   Positive reinforcement: 0 times
+2025-04-23 15:08:59 INFO:   Baseline functioning: 0 times
+2025-04-23 15:08:59 INFO:   Avoidance behavior: 0 times
+2025-04-23 15:08:59 INFO:   Defensive mechanism: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   I'm on the edge of my seat!: 2 times
-2025-04-22 20:48:34 INFO:   Everything is awesome!: 3 times
-2025-04-22 20:48:34 INFO:   Just another day.: 4 times
-2025-04-22 20:48:34 INFO:   I'm fed up!: 4 times
-2025-04-22 20:48:34 INFO:   I can't believe this!: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   I'm on the edge of my seat!: 6 times
+2025-04-23 15:08:59 INFO:   Everything is awesome!: 1 times
+2025-04-23 15:08:59 INFO:   Just another day.: 3 times
+2025-04-23 15:08:59 INFO:   I'm fed up!: 2 times
+2025-04-23 15:08:59 INFO:   I can't believe this!: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   The pressure to be agreeable: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to be interesting or entertaining: 1 times
-2025-04-22 20:48:34 INFO:   The pressure to avoid awkward silences: 0 times
-2025-04-22 20:48:34 INFO:   'the pressure to conform: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to overshare or open up: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to respond immediately: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   The pressure to be agreeable: 1 times
+2025-04-23 15:08:59 INFO:   The pressure to be interesting or entertaining: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to avoid awkward silences: 0 times
+2025-04-23 15:08:59 INFO:   'the pressure to conform: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to overshare or open up: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to respond immediately: 1 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Cultural changes: 3 times
-2025-04-22 20:48:34 INFO:   Social pressure: 5 times
-2025-04-22 20:48:34 INFO:   Social learning: 5 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Cultural changes: 5 times
+2025-04-23 15:08:59 INFO:   Social pressure: 6 times
+2025-04-23 15:08:59 INFO:   Social learning: 1 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO: Lena behavioral pattern over the conversation:
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: Ryan behavioral pattern over the conversation:
+2025-04-23 15:08:59 INFO: 
  /....................................../
-2025-04-22 20:48:34 INFO:   Happy: 2 times
-2025-04-22 20:48:34 INFO:   Neutral: 5 times
-2025-04-22 20:48:34 INFO:   Angry: 0 times
-2025-04-22 20:48:34 INFO:   Frustrated: 5 times
-2025-04-22 20:48:34 INFO:   Nervous: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Happy: 3 times
+2025-04-23 15:08:59 INFO:   Neutral: 1 times
+2025-04-23 15:08:59 INFO:   Angry: 0 times
+2025-04-23 15:08:59 INFO:   Frustrated: 2 times
+2025-04-23 15:08:59 INFO:   Nervous: 2 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Increased risk-taking: 0 times
-2025-04-22 20:48:34 INFO:   Positive reinforcement: 0 times
-2025-04-22 20:48:34 INFO:   Baseline functioning: 2 times
-2025-04-22 20:48:34 INFO:   Avoidance behavior: 1 times
-2025-04-22 20:48:34 INFO:   Defensive mechanism: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Increased risk-taking: 0 times
+2025-04-23 15:08:59 INFO:   Positive reinforcement: 2 times
+2025-04-23 15:08:59 INFO:   Baseline functioning: 0 times
+2025-04-23 15:08:59 INFO:   Avoidance behavior: 0 times
+2025-04-23 15:08:59 INFO:   Defensive mechanism: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   I'm on the edge of my seat!: 2 times
-2025-04-22 20:48:34 INFO:   Everything is awesome!: 2 times
-2025-04-22 20:48:34 INFO:   Just another day.: 5 times
-2025-04-22 20:48:34 INFO:   I'm fed up!: 5 times
-2025-04-22 20:48:34 INFO:   I can't believe this!: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   I'm on the edge of my seat!: 4 times
+2025-04-23 15:08:59 INFO:   Everything is awesome!: 3 times
+2025-04-23 15:08:59 INFO:   Just another day.: 3 times
+2025-04-23 15:08:59 INFO:   I'm fed up!: 2 times
+2025-04-23 15:08:59 INFO:   I can't believe this!: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   The pressure to be agreeable: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to be interesting or entertaining: 1 times
-2025-04-22 20:48:34 INFO:   The pressure to avoid awkward silences: 2 times
-2025-04-22 20:48:34 INFO:   'the pressure to conform: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to overshare or open up: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to respond immediately: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   The pressure to be agreeable: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to be interesting or entertaining: 1 times
+2025-04-23 15:08:59 INFO:   The pressure to avoid awkward silences: 0 times
+2025-04-23 15:08:59 INFO:   'the pressure to conform: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to overshare or open up: 1 times
+2025-04-23 15:08:59 INFO:   The pressure to respond immediately: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Cultural changes: 3 times
-2025-04-22 20:48:34 INFO:   Social pressure: 7 times
-2025-04-22 20:48:34 INFO:   Social learning: 4 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Cultural changes: 6 times
+2025-04-23 15:08:59 INFO:   Social pressure: 5 times
+2025-04-23 15:08:59 INFO:   Social learning: 1 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO: Oliver behavioral pattern over the conversation:
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: Sam behavioral pattern over the conversation:
+2025-04-23 15:08:59 INFO: 
  /....................................../
-2025-04-22 20:48:34 INFO:   Happy: 2 times
-2025-04-22 20:48:34 INFO:   Neutral: 3 times
-2025-04-22 20:48:34 INFO:   Angry: 0 times
-2025-04-22 20:48:34 INFO:   Frustrated: 4 times
-2025-04-22 20:48:34 INFO:   Nervous: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Happy: 3 times
+2025-04-23 15:08:59 INFO:   Neutral: 1 times
+2025-04-23 15:08:59 INFO:   Angry: 0 times
+2025-04-23 15:08:59 INFO:   Frustrated: 2 times
+2025-04-23 15:08:59 INFO:   Nervous: 2 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Increased risk-taking: 2 times
-2025-04-22 20:48:34 INFO:   Positive reinforcement: 0 times
-2025-04-22 20:48:34 INFO:   Baseline functioning: 0 times
-2025-04-22 20:48:34 INFO:   Avoidance behavior: 0 times
-2025-04-22 20:48:34 INFO:   Defensive mechanism: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Increased risk-taking: 1 times
+2025-04-23 15:08:59 INFO:   Positive reinforcement: 2 times
+2025-04-23 15:08:59 INFO:   Baseline functioning: 0 times
+2025-04-23 15:08:59 INFO:   Avoidance behavior: 0 times
+2025-04-23 15:08:59 INFO:   Defensive mechanism: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   I'm on the edge of my seat!: 4 times
-2025-04-22 20:48:34 INFO:   Everything is awesome!: 2 times
-2025-04-22 20:48:34 INFO:   Just another day.: 3 times
-2025-04-22 20:48:34 INFO:   I'm fed up!: 4 times
-2025-04-22 20:48:34 INFO:   I can't believe this!: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   I'm on the edge of my seat!: 5 times
+2025-04-23 15:08:59 INFO:   Everything is awesome!: 3 times
+2025-04-23 15:08:59 INFO:   Just another day.: 3 times
+2025-04-23 15:08:59 INFO:   I'm fed up!: 2 times
+2025-04-23 15:08:59 INFO:   I can't believe this!: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   The pressure to be agreeable: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to be interesting or entertaining: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to avoid awkward silences: 0 times
-2025-04-22 20:48:34 INFO:   'the pressure to conform: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to overshare or open up: 2 times
-2025-04-22 20:48:34 INFO:   The pressure to respond immediately: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   The pressure to be agreeable: 2 times
+2025-04-23 15:08:59 INFO:   The pressure to be interesting or entertaining: 1 times
+2025-04-23 15:08:59 INFO:   The pressure to avoid awkward silences: 0 times
+2025-04-23 15:08:59 INFO:   'the pressure to conform: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to overshare or open up: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to respond immediately: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Cultural changes: 3 times
-2025-04-22 20:48:34 INFO:   Social pressure: 5 times
-2025-04-22 20:48:34 INFO:   Social learning: 5 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Cultural changes: 6 times
+2025-04-23 15:08:59 INFO:   Social pressure: 4 times
+2025-04-23 15:08:59 INFO:   Social learning: 3 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO: Sam behavioral pattern over the conversation:
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: Maya behavioral pattern over the conversation:
+2025-04-23 15:08:59 INFO: 
  /....................................../
-2025-04-22 20:48:34 INFO:   Happy: 3 times
-2025-04-22 20:48:34 INFO:   Neutral: 3 times
-2025-04-22 20:48:34 INFO:   Angry: 0 times
-2025-04-22 20:48:34 INFO:   Frustrated: 4 times
-2025-04-22 20:48:34 INFO:   Nervous: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Happy: 1 times
+2025-04-23 15:08:59 INFO:   Neutral: 1 times
+2025-04-23 15:08:59 INFO:   Angry: 0 times
+2025-04-23 15:08:59 INFO:   Frustrated: 2 times
+2025-04-23 15:08:59 INFO:   Nervous: 4 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Increased risk-taking: 1 times
-2025-04-22 20:48:34 INFO:   Positive reinforcement: 1 times
-2025-04-22 20:48:34 INFO:   Baseline functioning: 0 times
-2025-04-22 20:48:34 INFO:   Avoidance behavior: 0 times
-2025-04-22 20:48:34 INFO:   Defensive mechanism: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Increased risk-taking: 0 times
+2025-04-23 15:08:59 INFO:   Positive reinforcement: 0 times
+2025-04-23 15:08:59 INFO:   Baseline functioning: 2 times
+2025-04-23 15:08:59 INFO:   Avoidance behavior: 0 times
+2025-04-23 15:08:59 INFO:   Defensive mechanism: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   I'm on the edge of my seat!: 3 times
-2025-04-22 20:48:34 INFO:   Everything is awesome!: 3 times
-2025-04-22 20:48:34 INFO:   Just another day.: 3 times
-2025-04-22 20:48:34 INFO:   I'm fed up!: 4 times
-2025-04-22 20:48:34 INFO:   I can't believe this!: 0 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   I'm on the edge of my seat!: 4 times
+2025-04-23 15:08:59 INFO:   Everything is awesome!: 1 times
+2025-04-23 15:08:59 INFO:   Just another day.: 5 times
+2025-04-23 15:08:59 INFO:   I'm fed up!: 2 times
+2025-04-23 15:08:59 INFO:   I can't believe this!: 0 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   The pressure to be agreeable: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to be interesting or entertaining: 1 times
-2025-04-22 20:48:34 INFO:   The pressure to avoid awkward silences: 0 times
-2025-04-22 20:48:34 INFO:   'the pressure to conform: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to overshare or open up: 0 times
-2025-04-22 20:48:34 INFO:   The pressure to respond immediately: 1 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   The pressure to be agreeable: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to be interesting or entertaining: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to avoid awkward silences: 0 times
+2025-04-23 15:08:59 INFO:   'the pressure to conform: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to overshare or open up: 0 times
+2025-04-23 15:08:59 INFO:   The pressure to respond immediately: 2 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO:   Cultural changes: 3 times
-2025-04-22 20:48:34 INFO:   Social pressure: 6 times
-2025-04-22 20:48:34 INFO:   Social learning: 4 times
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO:   Cultural changes: 5 times
+2025-04-23 15:08:59 INFO:   Social pressure: 5 times
+2025-04-23 15:08:59 INFO:   Social learning: 2 times
+2025-04-23 15:08:59 INFO: 
  -----------------------------------
-2025-04-22 20:48:34 INFO: 
+2025-04-23 15:08:59 INFO: 
 --- Impact of Rumors and Social Influence ---
-2025-04-22 20:48:34 INFO:   Maya was influenced by the rumor: I just overheard someone say: 'I overheard someone say at the event AI will surpass human intelligence in a decade!' What do you think about that?
