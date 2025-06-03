@@ -47,7 +47,8 @@ fixed_params = {
     'theta_E': 0.08,
     'delta_K': 0.1,
     'delta_M': 0.1,
-    'delta_E': 0.1
+    'delta_E': 0.1,
+    'lambda_P': 0.5
 }
 
 # محاسبه ماتریس A برای تحلیل پایداری
@@ -105,20 +106,18 @@ def run_simulation(students, with_events=True):
 
 # مسیر فایل فقط شامل حالت‌های اولیه
 state_file = 'C:/Tannaz/Coding-Stuff/AZ/MultiFile/M2/New/parameter_combinations2.csv'
-param_file = 'C:/Tannaz/Coding-Stuff/AZ/MultiFile/M2/New/parameter_combinations.csv'
+param_file = 'C:/Tannaz/Coding-Stuff/AZ/MultiFile/M2/New/parameter_outcomes.csv'
 
 state_data = read_csv_rows(state_file, start=0, count=num_students)
 param_data = read_csv_rows(param_file, start=0, count=num_students)
 min_len = min(len(state_data), len(param_data))
-print(f"شبیه‌سازی برای {min_len} دانش‌آموز آغاز شد.")
 
 # مقدارهای مجاز برای هر پارامتر
 param_allowed = {
     'alpha_P': [0.0, 0.25, 0.5],
     'alpha_I': [0.0, 0.25, 0.5],
     'delta_P': [0.0, 0.25, 0.5, 0.75, 1.0],
-    'delta_I': [0.0, 0.25, 0.5, 0.75, 1.0],
-    'lambda_P': [0.0, 0.25, 0.5, 0.75, 1.0]
+    'delta_I': [0.0, 0.25, 0.5, 0.75, 1.0]
 }
 
 def map_to_nearest_allowed(val, allowed_values):
@@ -168,7 +167,7 @@ run_simulation(after_events_students, with_events=True)
 
 # تحلیل پایداری روی یک نمونه پارامتر (میانگین مقادیر)
 mean_params = {k: np.mean([student[k] for student in merged_students.values()]) for k in [
-    'alpha_P', 'alpha_I', 'delta_P', 'delta_I', 'lambda_P', 'beta_K', 'beta_E', 'gamma_M', 'theta_E', 'delta_K', 'delta_M', 'delta_E']}
+    'alpha_P', 'alpha_I', 'delta_P', 'delta_I', 'beta_K', 'beta_E', 'gamma_M', 'theta_E', 'delta_K', 'delta_M', 'delta_E', 'lambda_P']}
 A = build_A_matrix(mean_params)
 eigenvalues = np.linalg.eigvals(A)
 
