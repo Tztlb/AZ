@@ -4,7 +4,7 @@ from mem0 import Memory
 llm = ChatOpenAI(
     model="deepseek-chat",
     base_url="https://api.avalai.ir/v1",
-    api_key="aa-UN4ZmttvrbXe3cBIwbQrraPzA0EOP2MJpx0tzmnFmlk12IIx"
+    api_key="avalai-api"
 )
 
 mem = Memory.from_config({
@@ -13,7 +13,7 @@ mem = Memory.from_config({
         "config": {
             "model": "deepseek/deepseek-r1-0528-qwen3-8b:free",
             "openai_base_url": "https://openrouter.ai/api/v1",
-            "api_key": "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"
+            "api_key": "openrouter-api"
         }
     },
     "vector_store": {
